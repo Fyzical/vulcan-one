@@ -1,6 +1,6 @@
 {
     "evmNetworks": {
-      "sei":["wss://evm-ws.sei-apis.com"],
+      "sei":["https://evm-rpc.sei-apis.com"],
     },
     "crossChainCollections":{
       "lilpudgy": {
