@@ -1,22 +1,6 @@
 {
     "evmNetworks": {
-      "sei":["https://evm-rpc.sei-apis.com"],
-    },
-    "crossChainCollections":{
-      "lilpudgy": {
-        "arb":"0x611747CC4576aAb44f602a65dF3557150C214493",
-        "bsc":"0x611747CC4576aAb44f602a65dF3557150C214493",
-        "polygon":"0x611747CC4576aAb44f602a65dF3557150C214493",
-        "eth":"0x524cab2ec69124574082676e6f654a18df49a048"
-      },
-      "boxer": {
-          "eth": "0x6bCa6de2dbDc4E0d41f7273011785ea16Ba47182",
-          "trn": "0xAaaAAAaa00000464000000000000000000000000"
-        },
-      "root": {
-          "trn": "0xcCcCCccC00000001000000000000000000000000",
-          "eth": "0xa3d4BEe77B05d4a0C943877558Ce21A763C4fa29"
-        }
+     "sei":["https://evm-rpc.sei-apis.com"]
     },
     "validStandards":["erc20", "token", "erc721", "nft", "sft", "erc1155"],
     "port": ":8080",
